@@ -1,16 +1,8 @@
 # tempat_wisata
+Aurinda Lutfifia Yessa Chatia
+IK2C/3.34.21.2.05
 
-A new Flutter project.
+#Tampilan
 
-## Getting Started
+![codelab_tempat_wisata](https://user-images.githubusercontent.com/116176686/208499101-ad27dc9b-063d-427b-bab9-2647217cb196.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
